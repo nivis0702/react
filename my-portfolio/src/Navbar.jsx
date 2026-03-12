@@ -31,7 +31,7 @@ const Navbar = () => {
           <li><Link to="/myskills" className={location.pathname === "/myskills" ? "active" : ""}>MySkills</Link></li>
           <li><Link to="/myproject" className={location.pathname === "/myproject" ? "active" : ""}>My Project </Link></li>
           <li><Link to="/contact" className={location.pathname === "/contact" ? "active" : ""}>Contact</Link></li>
-          <li><Link to="/footer" className={location.pathname === "/footer" ? "active" : ""}>Footer</Link></li>
+          
           
                  </ul>
 
@@ -56,7 +56,7 @@ const Navbar = () => {
           <li><Link to="/myproject">My Project</Link></li>
           <li><Link to="/myskills">MySkills</Link></li>
           <li><Link to="/contact">Contact</Link></li>
-          <li><Link to="/footer">Footer</Link></li>
+          {/* <li><Link to="/footer">Footer</Link></li> */}
 
         
         </ul>

@@ -1,5 +1,5 @@
 import React from "react"
-import logo from"./assets/img1.png"
+// import profile from"./assets/img2.png"
 
 const Portfolio=()=>{
     
@@ -9,7 +9,7 @@ const Portfolio=()=>{
        
         
          <div className="hero">
-            <img src={logo} alt="" />
+          {/* <img src={profile} alt="" /> */}
             <h1><span>I'm Nivis, </span>Frontend Developer</h1>
            <p>Frontend Developer Fresher with knowledge in HTML, CSS, JavaScript, and React.js. Passionate about building responsive websites and eager to start a career in web development.</p>
             

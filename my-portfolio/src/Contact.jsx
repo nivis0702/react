@@ -18,7 +18,7 @@ const Contact =()=>{
                                 <p>6379948790</p>
                             </div>
                               <div className="contact-detail">
-                                <p>chennail</p>
+                                <p>Dindigul</p>
                             </div>
                         </div>
                     </div>
